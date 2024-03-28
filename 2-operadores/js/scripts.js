@@ -62,8 +62,8 @@ console.log(10 !=`10`) // da true pq um é um numero e o outro uma string
 console.log(true && true)
 console.log(true &&false)
 
-console.log(5>2 && 2<10)
-console.log()
+console.log(5>2 && 2<10) // E
+console.log(10> 2 || 5>6) // ou - apenas um precisa ser verdadeiros
 console.log()
 console.log()
 console.log()
